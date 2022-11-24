@@ -1,0 +1,22 @@
+{
+  "name": "api-project",
+  "version": "1.0.0",
+  "description": "create API to learn NodeJS dev",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "js",
+    "api"
+  ],
+  "author": "Denny Pearce",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
